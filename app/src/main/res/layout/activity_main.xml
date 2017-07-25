@@ -16,5 +16,13 @@
         android:id="@+id/et"
         android:textSize="20sp"/>
 
+    <TextView
+        android:hint="Choose time"
+        android:textSize="20sp"
+        android:layout_below="@+id/et"
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
 
 </RelativeLayout>
